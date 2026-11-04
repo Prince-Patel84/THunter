@@ -23,13 +23,15 @@ If you are new to these terms or onboarding to the project, start by reading our
 * 📖 **[Cyber Security Beginner's Dictionary](docs/01_CYBER_SECURITY_DICTIONARY.md):** Plain-English definitions for Logs, SOC, SIEM, Threat Intel, PII, SOAR, MITRE ATT&CK, and Prompt Injection.
 * 🏗️ **[Project Blueprint & Architecture](docs/02_PROJECT_BLUEPRINT.md):** Deep-dive into the 5-stage pipeline and why each stage matters.
 * 👥 **[Team Roles & Roadmap](docs/03_TEAM_ROLES_AND_ROADMAP.md):** Detailed breakdown of Prince's and Vishwa's responsibilities, milestones, and Git collaboration workflow.
+* 📐 **[System Design & Module Contracts](docs/04_SYSTEM_DESIGN_AND_CONTRACTS.md):** Formal interface specifications, input/output schemas, and architecture contracts.
+* 🎯 **[Threat Model & Detection Limitations Matrix](docs/05_THREAT_MODEL_AND_LIMITATIONS.md):** Transparent record of supported scope, false negatives/blind spots, and multi-version roadmap.
 
 ---
 
 ## 🚀 Quickstart
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/THunter.git
+git clone https://github.com/Prince-Patel84/THunter.git
 cd THunter
 
 # Create virtual environment
